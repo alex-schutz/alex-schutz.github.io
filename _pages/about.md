@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <strong>PhD Student</strong> @ <a href="https://ori.ox.ac.uk/labs/goals/" target="_blank" rel="noopener noreferrer">Oxford Robotics Institute</a>  •  <strong>Previously:</strong> <a href="https://myriota.com/" target="_blank" rel="noopener noreferrer">Myriota</a> #/ <a href="https://ai.google/" target="_blank" rel="noopener noreferrer">GoogleAI</a> / <a href="https://openai.com/" target="_blank" rel="noopener noreferrer">OpenAI</a>  •  learn ⇄ imagine ⇆ build
 
@@ -27,8 +27,19 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a PhD student in the Goal-Oriented Long-Lived Systems (GOALS) group at the Oxford Robotics Institute.
+I joined the group in 2023, being supervised by Nick Hawes and Bruno Lacerda.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My research covers multi-agent planning under uncertainty, covering topics like:
+- Multi-Agent Reinforcement Learning
+- Graph Neural Networks
+- POMDP algorithms 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+In 2023, I was awarded a prestigious scholarship from the John Monash Foundation, supporting outstanding Australians pursuing postgraduate studies overseas.
+
+Before joining the ORI, I worked as a Rapid Prototyping Engineer at Myriota, developing algorithms for ultra low-energy direct-to-orbit satellite communications.
+Prior to that, I earned a Bachelor of Engineering (Mechatronics) and a Bachelor of Maths and Computer Science from the University of Adelaide, graduating as Valedictorian.
+
+I am part of the leadership team for <a href="https://www.linkedin.com/company/robotics-inclusive" target="_blank" rel="noopener noreferrer">Robotics Inclusive</a> - please get in contact if you'd like to be involved in making the robotics community accessible to all.
+
+<!-- Read more in my [CV](/cv/). -->

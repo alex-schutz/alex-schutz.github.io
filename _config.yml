@@ -212,6 +212,15 @@ exclude:
   - _pages/books.md
   - _pages/teaching.md
   - _pages/profiles.md
+  # templates
+  - _news/announcement_2.md
+  # projects
+  - _pages/projects.md
+  - _projects/
+  - _includes/project/
+  - _layouts/project.liquid
+  - _includes/project_card.liquid
+  
 
 keep_files:
   - CNAME
