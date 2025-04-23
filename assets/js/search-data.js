@@ -9,7 +9,14 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-cv",
+  },{id: "nav-projects",
+          title: "Projects",
+          description: "A collection of my projects.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/projects/";
+          },
+        },{id: "nav-cv",
           title: "CV",
           description: "",
           section: "Navigation",
@@ -27,7 +34,12 @@ ninja.data = [{
           section: "News",},{id: "news-robotics-inclusive-featured-in-an-interview-by-frontiers",
           title: 'Robotics Inclusive featured in an interview by Frontiers',
           description: "",
-          section: "News",},{
+          section: "News",},{id: "projects-detmcvi",
+          title: 'DetMCVI',
+          description: "A highly scalable solver for Deterministic POMDPs",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/detMCVI/";
+            },},{
         id: 'social-github',
         title: 'GitHub',
         section: 'Socials',
