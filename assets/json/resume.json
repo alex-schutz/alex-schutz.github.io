@@ -148,7 +148,8 @@
   "projects": [
     {
       "name": "Scalable planning for Deterministic POMDPs",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
+      "summary": "A fusion of Monte-Carlo Value Iteration and Goal-HSVI to create a goal-oriented solver for Deterministic POMDPs.",
+	  "url": "/projects/detMCVI/",
       "highlights": ["POMDP Planning", "Finite State Controllers"],
       "startDate": "2023",
       "endDate": "2024"
