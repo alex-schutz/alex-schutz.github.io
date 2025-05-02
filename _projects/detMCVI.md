@@ -20,4 +20,4 @@ images:
 
 ---
 
-Full paper coming soon!
+View the full paper [here](http://arxiv.org/abs/2505.00596).
