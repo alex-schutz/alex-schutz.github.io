@@ -52,7 +52,7 @@ footer_fixed: true
 search_enabled: false
 socials_in_search: true
 posts_in_search: true
-bib_search: true
+bib_search: false
 
 # Dimensions
 max_width: 930px
@@ -194,15 +194,15 @@ exclude:
   - _layouts/archive.liquid
   - assets/jupyter/blog.ipynb
   # publications
-  - _bibliography/
-  - _pages/publications.md
-  - _layouts/bib.liquid file
-  - _includes/bib_search.liquid
-  - _includes/citation.liquid
-  - _includes/selected_papers.liquid
-  - _plugins/google-scholar-citations.rb
-  - _plugins/hide-custom-bibtex.rb
-  - _plugins/inspirehep-citations.rb
+  # - _bibliography/
+  # - _pages/publications.md
+  # - _layouts/bib.liquid file
+  # - _includes/bib_search.liquid
+  # - _includes/citation.liquid
+  # - _includes/selected_papers.liquid
+  # - _plugins/google-scholar-citations.rb
+  # - _plugins/hide-custom-bibtex.rb
+  # - _plugins/inspirehep-citations.rb
   # repositories
   - _pages/repositories.md
   - _includes/repository/
