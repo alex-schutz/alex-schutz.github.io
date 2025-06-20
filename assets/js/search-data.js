@@ -9,7 +9,14 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-projects",
+  },{id: "nav-publications",
+          title: "Publications",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/publications/";
+          },
+        },{id: "nav-projects",
           title: "Projects",
           description: "A collection of my projects.",
           section: "Navigation",
@@ -52,6 +59,20 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://www.linkedin.com/in/alex-schutz", "_blank");
+        },
+      },{
+        id: 'social-scholar',
+        title: 'Google Scholar',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://scholar.google.com/citations?user=pDpTAnUAAAAJ", "_blank");
+        },
+      },{
+        id: 'social-work',
+        title: 'Work',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://ori.ox.ac.uk/people/alex-schutz/", "_blank");
         },
       },{
       id: 'light-theme',
