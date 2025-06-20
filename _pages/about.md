@@ -34,6 +34,7 @@ My research covers multi-agent planning under uncertainty, covering topics like:
 - Multi-Agent Reinforcement Learning
 - Graph Neural Networks
 - POMDP algorithms 
+- Neural Algorithmic Reasoning
 
 In 2023, I was awarded a prestigious scholarship from the John Monash Foundation, supporting outstanding Australians pursuing postgraduate studies overseas.
 

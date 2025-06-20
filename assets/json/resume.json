@@ -4,7 +4,7 @@
     "label": "Robotics PhD Student",
     "image": "",
     "email": "alexschutz@robots.ox.ac.uk",
-    "summary": "An keen researcher in robotics with a focus on autonomous decision making in multi-agent systems.",
+    "summary": "A keen researcher in robotics with a focus on autonomous decision making in multi-agent systems.",
     "profiles": [
       {
         "network": "LinkedIn",
@@ -21,7 +21,8 @@
       "area": "Multi-Agent Planning Under Uncertainty",
       "studyType": "DPhil Engineering Science",
       "startDate": "Oct 2023",
-	  "courses": ["POMDP Planning", "Multi-Agent Reinforcement Learning"]
+	  "courses": ["POMDP Planning", "Multi-Agent Reinforcement Learning", "Neural Algorithmic Reasoning"],
+	  "endDate": "Present"
     },
 	{
 		"institution": "University of Adelaide",
@@ -148,7 +149,7 @@
   "projects": [
     {
       "name": "Scalable planning for Deterministic POMDPs",
-      "summary": "A fusion of Monte-Carlo Value Iteration and Goal-HSVI to create a goal-oriented solver for Deterministic POMDPs.",
+      "summary": "A fusion of Monte-Carlo Value Iteration and Goal-HSVI to create a goal-oriented solver for Deterministic POMDPs. Published at IJCAI 2025.",
 	  "url": "/projects/detMCVI/",
       "highlights": ["POMDP Planning", "Finite State Controllers"],
       "startDate": "2023",
