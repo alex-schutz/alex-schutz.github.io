@@ -47,6 +47,13 @@ ninja.data = [{
           section: "Projects",handler: () => {
               window.location.href = "/projects/detMCVI/";
             },},{
+        id: 'social-email',
+        title: 'email',
+        section: 'Socials',
+        handler: () => {
+          window.open("mailto:%61%6C%65%78%73%63%68%75%74%7A@%72%6F%62%6F%74%73.%6F%78.%61%63.%75%6B", "_blank");
+        },
+      },{
         id: 'social-github',
         title: 'GitHub',
         section: 'Socials',
@@ -59,6 +66,13 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://www.linkedin.com/in/alex-schutz", "_blank");
+        },
+      },{
+        id: 'social-orcid',
+        title: 'ORCID',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://orcid.org/0000-0002-7597-5684", "_blank");
         },
       },{
         id: 'social-scholar',
