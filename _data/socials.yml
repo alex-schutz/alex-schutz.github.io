@@ -7,7 +7,7 @@
 # bluesky_url: # your bluesky URL
 # dblp_url: # your DBLP profile url
 # discord_id: # your discord id (18-digit unique numerical identifier)
-# email:  # your email address
+email: alexschutz@robots.ox.ac.uk # your email address
 # facebook_id: # your facebook id
 # flickr_id: # your flickr id
 github_username: alex-schutz # your GitHub user name
@@ -23,7 +23,7 @@ github_username: alex-schutz # your GitHub user name
 linkedin_username: alex-schutz # your LinkedIn user name
 # mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 # medium_username: # your Medium username
-# orcid_id: # your ORCID ID
+orcid_id: 0000-0002-7597-5684 # your ORCID ID
 # osf_id: # your OSF ID
 # pinterest_id: # your pinterest id
 # publons_id: # your ID on Publons
