@@ -1,4 +1,1 @@
-User-agent: *
-Disallow:
-
 Sitemap: https://alex-schutz.github.io/sitemap.xml
