@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <strong>PhD Student</strong> @ <a href="https://ori.ox.ac.uk/labs/goals/" target="_blank" rel="noopener noreferrer">Oxford Robotics Institute</a>  •  <strong>Previously:</strong> <a href="https://myriota.com/" target="_blank" rel="noopener noreferrer">Myriota</a> #/ <a href="https://ai.google/" target="_blank" rel="noopener noreferrer">GoogleAI</a> / <a href="https://openai.com/" target="_blank" rel="noopener noreferrer">OpenAI</a>  •  learn ⇄ imagine ⇆ build
+subtitle: <em>They/Them</em> <br><strong>PhD Student</strong> @ <a href="https://ori.ox.ac.uk/labs/goals/" target="_blank" rel="noopener noreferrer">Oxford Robotics Institute</a>  •  <strong>Previously:</strong> <a href="https://myriota.com/" target="_blank" rel="noopener noreferrer">Myriota</a> #/ <a href="https://ai.google/" target="_blank" rel="noopener noreferrer">GoogleAI</a> / <a href="https://openai.com/" target="_blank" rel="noopener noreferrer">OpenAI</a>  •  learn ⇄ imagine ⇆ build
 
 profile:
   align: right
