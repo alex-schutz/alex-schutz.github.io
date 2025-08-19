@@ -32,8 +32,8 @@ I joined the group in 2023, being supervised by Nick Hawes and Bruno Lacerda.
 
 My research covers multi-agent planning under uncertainty, covering topics like:
 - Multi-Agent Reinforcement Learning
-- Graph Neural Networks
-- POMDP algorithms 
+- Graph Reinforcement Learning
+- POMDP Algorithms 
 - Neural Algorithmic Reasoning
 
 In 2023, I was awarded a prestigious scholarship from the John Monash Foundation, supporting outstanding Australians pursuing postgraduate studies overseas.
