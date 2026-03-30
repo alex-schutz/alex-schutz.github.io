@@ -37,6 +37,14 @@
 		}
   ],
   "work": [
+	{
+      "name": "Stateful Robotics",
+      "position": "Software Engineering Intern",
+	  "location": "Oxford, UK",
+      "url": "https://statefulrobotics.com/",
+      "startDate": "Feb 2026",
+      "endDate": "May 2026"
+    },
     {
       "name": "Myriota",
       "position": "Rapid Prototyping Engineer",
@@ -72,7 +80,7 @@
 	  },
 	  {
 		"organization": "Oxford University Korfball Club",
-		"position": "Secretary",
+		"position": "Secretary/IT Officer",
 		"url": "https://users.ox.ac.uk/~korfball/",
 		"startDate": "May 2024"
 	  }

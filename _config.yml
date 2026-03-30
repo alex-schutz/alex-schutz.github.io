@@ -212,8 +212,6 @@ exclude:
   - _pages/books.md
   - _pages/teaching.md
   - _pages/profiles.md
-  # templates
-  - _news/announcement_2.md
   # projects
   - _projects/2_project.md
   - _projects/3_project.md
