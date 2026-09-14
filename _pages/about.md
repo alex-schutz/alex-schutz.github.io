@@ -30,7 +30,7 @@ latest_posts:
 I am a PhD student in the Goal-Oriented Long-Lived Systems (GOALS) group at the Oxford Robotics Institute.
 I joined the group in 2023, being supervised by Nick Hawes and Bruno Lacerda.
 
-My research covers multi-agent planning under uncertainty, covering topics like:
+My research covers planning and learning in graph-based environments, covering topics like:
 - Multi-Agent Reinforcement Learning
 - Graph Reinforcement Learning
 - POMDP Algorithms 
@@ -43,4 +43,4 @@ Prior to that, I earned a Bachelor of Engineering (Mechatronics) and a Bachelor 
 
 I am part of the leadership team for <a href="https://www.linkedin.com/company/robotics-inclusive" target="_blank" rel="noopener noreferrer">Robotics Inclusive</a> - please get in contact if you'd like to be involved in making the robotics community accessible to all.
 
-<!-- Read more in my [CV](/cv/). -->
+Read more in my [CV](/cv/).
