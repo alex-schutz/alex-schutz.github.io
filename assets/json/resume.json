@@ -21,7 +21,7 @@
       "area": "Multi-Agent Planning Under Uncertainty",
       "studyType": "DPhil Engineering Science",
       "startDate": "Oct 2023",
-	  "courses": ["POMDP Planning", "Multi-Agent Reinforcement Learning", "Neural Algorithmic Reasoning"],
+	  "courses": ["Graph Reinforcement Learning", "POMDP Planning", "Multi-Agent Reinforcement Learning", "Neural Algorithmic Reasoning"],
 	  "endDate": "Present"
     },
 	{
@@ -33,7 +33,7 @@
 		"startDate": "2015",
 		"endDate": "2020",
 		"score": "GPA 6.92/7",
-		"courses": ["Machine Learning", "Groups and Rings"]
+		"courses": ["Machine Learning", "Pure Mathematics", "Mechanical Engineering"]
 		}
   ],
   "work": [
@@ -43,7 +43,18 @@
 	  "location": "Oxford, UK",
       "url": "https://statefulrobotics.com/",
       "startDate": "Feb 2026",
-      "endDate": "May 2026"
+      "endDate": "May 2026",
+	  "summary": "Design and development of planning algorithms for robot intelligence in industrial applications.",
+      "highlights": ["Created hierarchical heuristic-powered planning approach for scalable application of MDPs","Delivered key customer deadlines in critical stages of early startup"]
+    },
+	{
+      "name": "University of Oxford",
+      "position": "Lead Robotics Tutor",
+	  "location": "Oxford, UK",
+      "startDate": "Dec 2024",
+      "endDate": "Feb 2025",
+	  "summary": "Course design and teaching of a week-long practical robotics course for 1st-year PhD students.",
+      "highlights": ["Rewrote course content for new hardware and greatly improved teaching experience","Delivered content concerning ROS, perception, control, planning, SLAM, and MDPs"]
     },
     {
       "name": "Myriota",
@@ -74,13 +85,13 @@
 	  },
 	  {
 		"organization": "Oxford Robotics Graduate Society",
-		"position": "Treasurer/Secretary",
+		"position": "President/Treasurer/Secretary",
 		"url": "https://oxfordrgs.github.io/",
 		"startDate": "Jan 2024"
 	  },
 	  {
 		"organization": "Oxford University Korfball Club",
-		"position": "Secretary/IT Officer",
+		"position": "Secretary/IT Officer/Kit Secretary",
 		"url": "https://users.ox.ac.uk/~korfball/",
 		"startDate": "May 2024"
 	  }
@@ -106,9 +117,10 @@
 		"level": "Master",
 		"icon": "fa-solid fa-hashtag",
 		"keywords": [
+		  "Graph Learning",
 		  "Reinforcement Learning",
 		  "Deep Learning",
-		  "Linear Regression"
+		  "Representation Learning"
 		]
 	  },
 	  {
@@ -156,6 +168,12 @@
     }
   ],
   "projects": [
+	{
+      "name": "Reinforcement Learning on Graphs",
+      "summary": "A blog post aimed to educate beginners on the fundamentals of applying reinforcement learning to graph-structured data.",
+	  "url": "https://iclr-blogposts.github.io/2026/blog/2026/rl-with-gnns/",
+      "startDate": "2025"
+    },
     {
       "name": "Scalable planning for Deterministic POMDPs",
       "summary": "A fusion of Monte-Carlo Value Iteration and Goal-HSVI to create a goal-oriented solver for Deterministic POMDPs. Published at IJCAI 2025.",
