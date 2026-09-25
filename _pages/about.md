@@ -31,8 +31,9 @@ I am a PhD student in the Goal-Oriented Long-Lived Systems (GOALS) group at the 
 I joined the group in 2023, being supervised by Nick Hawes and Bruno Lacerda.
 
 My research covers planning and learning in graph-based environments, covering topics like:
-- Multi-Agent Reinforcement Learning
 - Graph Reinforcement Learning
+- World Models
+- Multi-Agent Reinforcement Learning
 - POMDP Algorithms 
 - Neural Algorithmic Reasoning
 

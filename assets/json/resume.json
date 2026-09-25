@@ -150,8 +150,9 @@
 		"icon": "fa-solid fa-tag",
 		"keywords": [
 		  "Robotics",
-		  "Multi-Agent Communication",
+		  "World Models",
 		  "Graph Neural Networks",
+		  "Reinforcement Learning",
 		  "Neural Algorithmic Reasoning"
 		]
 	  },
