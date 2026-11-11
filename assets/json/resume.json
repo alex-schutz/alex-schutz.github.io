@@ -170,6 +170,14 @@
   ],
   "projects": [
 	{
+      "name": "Graph Neural Algorithmic Reasoning Reimagined through Reinforcement Learning",
+      "summary": "A flexible interface for graph-based reinforcement learning using the NAR framing. Published in TMLR 2026.",
+	  "url": "/projects/GNARL/",
+      "highlights": ["Graph Reinforcement Learning", "Combinatorial Optimisation", "Neural Algorithmic Reasoning"],
+      "startDate": "2024",
+      "endDate": "2026"
+    },
+	{
       "name": "Reinforcement Learning on Graphs",
       "summary": "A blog post aimed to educate beginners on the fundamentals of applying reinforcement learning to graph-structured data.",
 	  "url": "https://iclr-blogposts.github.io/2026/blog/2026/rl-with-gnns/",
